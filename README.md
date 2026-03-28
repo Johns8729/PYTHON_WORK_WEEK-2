@@ -82,4 +82,7 @@ python main.py
 
 ## 🔄 Program Flow
 
-<img width="704" height="1511" alt="Gemini_Generated_Image_3iuq4i3iuq4i3iuq" src="https://github.com/user-attachments/assets/aa51883b-a4ce-4f52-8d39-c4b0dc10bfa8" />
+<img width="704" height="1511" alt="Gemini_Generated_Image_3iuq4i3iuq4i3iuq" src="https://github.com/user-attachments/assets/aa51883b-a4ce-4f52-8d39-c4b0dc10bfa8" /> 
+
+## Repository 
+https://github.com/Johns8729/PYTHON_WORK_WEEK-2
